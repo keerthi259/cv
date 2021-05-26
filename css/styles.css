@@ -1,0 +1,24 @@
+body {
+  background: #f6def6;
+  font-family: "Times New Roman", Times, serif;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+img {
+  width: 150px;
+}
+h1
+{
+  color: blac
+}
+h3
+{
+  color: black;
+}
